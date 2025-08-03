@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on chit chat(android app)<br><br>🌱 I’m currently learning Android development<br><br>📫 How to reach me nishitmistry94@gmail.com
+🔭 I’m currently working on OS DEVELOPMENT<br><br>🌱 I’m currently learning Development of Operating System from Scratch<br><br>📫 How to reach me nishitmistry94@gmail.com
 
 
 ## 🌐 Socials:
